@@ -24,7 +24,7 @@ setup(
     long_description_content_type='text/markdown',
 
     url="https://github.com/pablo-chitaksa/easy-game-py",
-    download_url="https://github.com/pablo-chitaksa/easy-game-py/()/v().zip".format(
+    download_url="https://github.com/pablo-chitaksa/easy-game-py/v()/v().zip".format(
         version
     ),
 
